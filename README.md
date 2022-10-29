@@ -1,12 +1,9 @@
 # Neural_Style_Transfer
 You want to change your image style?
-Here is the way 
-        |
-        |
-        |
-        |
-        ٧
-        
+Here is the way ------>
+
+
+
 ## What is Neural Style Transfer?
 
 Neural Style Transfer is the technique of blending style from one image into another image keeping its content intact. The only change is the style configurations of the image to give an artistic touch to your image.
